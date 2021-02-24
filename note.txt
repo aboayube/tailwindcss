@@ -1,0 +1,2 @@
+ npm i tailwindcss postcss autoprefixer postcss-cli
+ تنزيل تولند

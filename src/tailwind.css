@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn{
+    @apply bg-blue-500 text-white px-8 py-3 rounded-full hover:bg-green-500;
+}
